@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name is Michael
 
+#### I am second year CS student
+
+Skills: Rust (Actix-web, Diesel, Serde and some Solana), Go and Solidity 
+
+- 🔭 I’m currently working on: malcentasko
+- 🌱 I’m currently learning: Solana Development
+- 📫 How to reach me: misharuz25@gmail.com, [Telegram](https://t.me/MishaRout)
+
+My resume you can find [here](https://github.com/mirout/mirout/blob/master/RuzavinMikhailCV.pdf)
 <!--
 **mirout/mirout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
