@@ -2,9 +2,9 @@
 
 #### I am second year CS student
 
-Skills: Rust (Actix-web, Diesel, Serde and some Solana), Go and Solidity 
+Skills: Rust (Actix-web, Diesel, Serde and some Solana), Go (grpc, geth) and Solidity 
 
-- 🔭 I’m currently working on: malcentasko
+- 🔭 I’m currently working at denet.pro
 - 🌱 I’m currently learning: Solana Development
 - 📫 How to reach me: misharuz25@gmail.com, [Telegram](https://t.me/MishaRout)
 
