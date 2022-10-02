@@ -4,7 +4,6 @@
 
 Skills: Rust (Actix-web, Diesel, Serde and some Solana), Go (grpc, geth) and Solidity 
 
-- 🌱 I’m currently learning: Solana Development
 - 📫 How to reach me: misharuz25@gmail.com, [Telegram](https://t.me/MishaRout)
 
 <!--
