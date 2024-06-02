@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Michael
 
-#### I am third year CS student
+#### I am fourth year CS student
 
 Skills: Rust (Actix-web, Diesel, Serde and some Solana), Go (grpc, geth) and Solidity 
 
